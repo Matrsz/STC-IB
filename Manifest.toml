@@ -541,6 +541,12 @@ git-tree-sha1 = "1285416549ccfcdf0c50d4997a94331e88d68413"
 uuid = "69de0a69-1ddd-5017-9359-2bf0b02dc9f0"
 version = "2.3.1"
 
+[[deps.Peaks]]
+deps = ["Compat"]
+git-tree-sha1 = "79e1f108ef46e9393bc670440c5f3ec78d23eb78"
+uuid = "18e31ff7-3703-566c-8e60-38913d67486b"
+version = "0.4.0"
+
 [[deps.PhysicalConstants]]
 deps = ["Measurements", "Roots", "Unitful"]
 git-tree-sha1 = "2bc26b693b5cbc823c54b33ea88a9209d27e2db7"
